@@ -1,5 +1,7 @@
 This repository contains codes and data related to the paper "A Method for Estimating Individual Socioeconomic Status of Twitter Users". 
 
+Also avaiable on [Figshare](https://doi.org/10.6084/m9.figshare.22007000.v1).
+
 Many codes in preprocessing and correspondence analysis are copied with some alterations or inspirations from Pablo Barberá's Github repositories "[twitter_ideology](https://github.com/pablobarbera/twitter_ideology)" and "[echo_chambers](https://github.com/pablobarbera/echo_chambers)". We mark the lines where the codes are copied with some alterations and declare at the beginning of the scripts that draw inspiration. 
 
 This paper uses Twitter data obtained from the Twitter API (academic access). Due to Twitter Policy restrictions and ethical considerations, we do not share the Twitter data used in this paper. Instead, we provide the data and codes needed to get the relevant data from Twitter API. The codes use wrapper functions in the R library `tweetscores` developed by Pablo Barberá to query Twitter API, and the functions still work well at the time of publishing this repository. If the functions stop working, [Twitter API's official documents](https://developer.twitter.com/en/docs/twitter-api) provide many ways to query from Twitter API. 
