@@ -1,0 +1,342 @@
+brand,twitter_account_name,domain
+7-Eleven,7eleven,supermarket
+Kroger,kroger,supermarket
+Target,Target,supermarket
+Walmart,Walmart,supermarket
+Albertsons,Albertsons,supermarket
+Food Lion,FoodLion,supermarket
+Sam's Club,SamsClub,supermarket
+Amazon Fresh,AmazonFresh,supermarket
+Aldi,AldiUSA,supermarket
+Big Lots,BigLots,supermarket
+Dollar General,DollarGeneral,supermarket
+Dollar Tree,DollarTree,supermarket
+Save-A-Lot,SaveALot,supermarket
+Family Dollar,myfamilydollar,supermarket
+central market,CentralMarket,supermarket
+Whole Foods Market,WholeFoods,supermarket
+Sprouts Farmers Market,sproutsfm,supermarket
+Wegmans Food Markets,Wegmans,supermarket
+Natural Grocers,NaturalGrocers,supermarket
+Earth Fare,EarthFare,supermarket
+Winn-Dixie,WinnDixie,supermarket
+Publix,Publix,supermarket
+WinCo Foods,WinCoFoods,supermarket
+Giant Food Stores,GiantFoodStores,supermarket
+Food City,FoodCity,supermarket
+ShopRite,ShopRiteStores,supermarket
+J. C. Penney,jcpenney,department store
+Kohl's,Kohls,department store
+Macy's,Macys,department store
+Sears,Sears,department store
+Bloomingdale's,Bloomingdales,department store
+Neiman Marcus,neimanmarcus,department store
+Bergdorf Goodman,Bergdorfs,department store
+Nordstrom,Nordstrom,department store
+Nordstrom Rack,nordstromrack,department store
+Saks Fifth Avenue,saks,department store
+Burlington,Burlington,department store
+Five Below,fivebelow,department store
+Fred Meyer,Fred_Meyer,department store
+Gordmans,gordmans,department store
+HomeGoods,HomeGoods,department store
+Kmart,Kmart,department store
+Marshalls,marshalls,department store
+Meijer,meijer,department store
+Ollie's Bargain Outlet,OlliesOutlet,department store
+T.J. Maxx,tjmaxx,department store
+Tuesday Morning,TuesdayMorning,department store
+Belk,belk,department store
+Century 21 Stores,century21stores,department store
+Dillard's,Dillards,department store
+Black & Decker,BLACKANDDECKER,speciality retail
+Craftsman,craftsman,speciality retail
+John Deere,JohnDeere,speciality retail
+Sherwin-Williams,SherwinWilliams,speciality retail
+DeWalt,DEWALTtough,speciality retail
+Skil,SkilTools,speciality retail
+Makita Tools,MakitaTools,speciality retail
+RYOBI Tools,RYOBItoolsusa,speciality retail
+Husqvarna,HusqvarnaUSA,speciality retail
+RIDGID Tools,RIDGIDtoday,speciality retail
+The Home Depot,HomeDepot,speciality retail
+Lowe's,Lowes,speciality retail
+Barnes & Noble,BNBuzz,speciality retail
+Best Buy,BestBuy,speciality retail
+Ace Hardware,AceHardware,speciality retail
+Walgreens,Walgreens,speciality retail
+Hallmark,Hallmark,speciality retail
+Mattel,Mattel,speciality retail
+La-Z-Boy,lazboy,speciality retail
+StaplesStores,StaplesStores,speciality retail
+CVS Pharmacy,cvspharmacy,speciality retail
+Office Depot,officedepot,speciality retail
+IKEA,IKEAUSA,speciality retail
+PetSmart,PetSmart,speciality retail
+Petco,Petco,speciality retail
+"Toys ""R"" Us",ToysRUs,speciality retail
+True Value,TrueValue,speciality retail
+Kohler,Kohler,speciality retail
+houzz,houzz,speciality retail
+Miele,MieleUSA,speciality retail
+Yankee Candle,TheYankeeCandle,speciality retail
+Sealy,Sealy,speciality retail
+OfficeMax,OfficeMax,speciality retail
+American Greetings,amgreetings,speciality retail
+Tempur-Pedic,TempurPedic,speciality retail
+Serta Mattress,SertaMattresses,speciality retail
+Rite Aid,riteaid,speciality retail
+RadioShack,RadioShack,speciality retail
+Bass Pro Shops,BassProShops,speciality retail
+DICK'S Sporting Goods,DICKS,speciality retail
+Pier 1 Imports,pier1,speciality retail
+Party City,PartyCity,speciality retail
+Foot Locker,footlocker,speciality retail
+Disney Store,shopDisney,speciality retail
+Build-A-Bear Workshop,buildabear,speciality retail
+Benjamin Moore,Benjamin_Moore,speciality retail
+Cabela's,Cabelas,speciality retail
+Tiffany & Co.,TiffanyAndCo,speciality retail
+Pottery Barn,potterybarn,speciality retail
+Sleep Number,sleepnumber,speciality retail
+Moen,moen,speciality retail
+GNC,GNCLiveWell,speciality retail
+Carter's,Carters,speciality retail
+BabiesRUs,BabiesRUs,speciality retail
+Crate and Barrel,CrateandBarrel,speciality retail
+Zalesjewelers,ZalesJewelers,speciality retail
+Famous Footwear,FamousFootwear,speciality retail
+Planet Fitness,PlanetFitness,speciality retail
+Beautyrest,Beautyrest,speciality retail
+Pandora jewelry,PANDORA_NA,speciality retail
+Kay Jewelers,KayJewelers,speciality retail
+Williams Sonoma,WilliamsSonoma,speciality retail
+Ashley HomeStore,AshleyHomeStore,speciality retail
+Claire's,claires,speciality retail
+THe Children's Place,childrensplace,speciality retail
+REI,REI,speciality retail
+The Vitamin Shoppe,VitaminShoppe,speciality retail
+American Girl,American_Girl,speciality retail
+Champs Sports,champssports,speciality retail
+Shoe Carnival,ShoeCarnival,speciality retail
+Mattress Firm,MattressFirm,speciality retail
+Jared,ThatsJared,speciality retail
+Gymboree,Gymboree,speciality retail
+Finish Line,FinishLine,speciality retail
+LA Fitness,LAFitness,speciality retail
+journeys,journeys,speciality retail
+Academy Sports + Outdoors,Academy,speciality retail
+Helzberg Diamonds,Helzberg,speciality retail
+Abercrombie kids,abercrombiekids,speciality retail
+Big 5 Sporting Goods,big5since55,speciality retail
+Rack Room Shoes,myrackroomshoes,speciality retail
+Modell's,Modells,speciality retail
+Peloton,onepeloton,speciality retail
+Havertys Furniture,havertys,speciality retail
+Warby Parker,WarbyParker,speciality retail
+Raymour & Flanigan,raymourflanigan,speciality retail
+Zenni Optical,zennioptical,speciality retail
+P. C. Richard & Son,PCRichardandSon,speciality retail
+SoulCycle,soulcycle,speciality retail
+Crunch,CrunchGym,speciality retail
+Art Van Furniture,artvan,speciality retail
+Kendra Scott,KendraScott,speciality retail
+Flywheel Sports,Flywheel,speciality retail
+Saatva,SaatvaMattress,speciality retail
+Verizon Wireless,VZWSupport,speciality retail
+AT&T Wireless,ATT,speciality retail
+Build.com,buildcom,speciality retail
+Harbor Freight Tools,HarborFreight,speciality retail
+B&H Photo,BHPhotoVideo,speciality retail
+Crutchfield,Crutchfield,speciality retail
+Fry's Electronics,fryselectronics,speciality retail
+Micro Center,microcenter,speciality retail
+Newegg,Newegg,speciality retail
+Bed Bath & Beyond,BedBathBeyond,speciality retail
+BHG Live Better,BHGLiveBetter,speciality retail
+Bath & Body Works,bathbodyworks,speciality retail
+TigerDirect,TigerDirect,speciality retail
+McDonald's,McDonalds,restaurant
+Starbucks,Starbucks,restaurant
+Subway,SUBWAY,restaurant
+Taco Bell,tacobell,restaurant
+Chick-fil-A,ChickfilA,restaurant
+Burger King,BurgerKing,restaurant
+Wendy's,Wendys,restaurant
+Dunkin' Donuts,dunkindonuts,restaurant
+Domino's,dominos,restaurant
+Panera Bread,panerabread,restaurant
+Pizza Hut,pizzahut,restaurant
+Chipotle Mexican Grill,ChipotleTweets,restaurant
+Sonic Drive-In,sonicdrivein,restaurant
+KFC,kfc,restaurant
+Applebee's,Applebees,restaurant
+Olive Garden,olivegarden,restaurant
+Arby's,Arbys,restaurant
+Little Caesars,littlecaesars,restaurant
+Buffalo Wild Wings,BWWings,restaurant
+Dairy Queen,DairyQueen,restaurant
+Panda Express,PandaExpress,restaurant
+Maggiano's Little Italy,Maggianos,restaurant
+"Cold Stone Creamery	",ColdStone,restaurant
+Zoes Kitchen,ZoesKitchen,restaurant
+PeiWei,PeiWei,restaurant
+Caribou Coffee,cariboucoffee,restaurant
+Philz Coffee,PhilzCoffee,restaurant
+Peet's Coffee,peetscoffee,restaurant
+Ben & Jerry's,benandjerrys,restaurant
+Dippin' Dots,DippinDots,restaurant
+Pinkberry,Pinkberry,restaurant
+The Melting Pot,TheMeltingPot,restaurant
+Brio Tuscan Grill,BrioItalian,restaurant
+Tijuana Flats,TijuanaFlats,restaurant
+Uno Pizzeria & Grill,UnoChicagoGrill,restaurant
+Morton's The Steakhouse,Mortons,restaurant
+The Cheesecake Factory,Cheesecake,restaurant
+Red Mango,Red Mango,restaurant
+P.F. Chang's China Bistro,PFChangs,restaurant
+Jason's Deli,jasonsdeli,restaurant
+Shake Shack,shakeshack,restaurant
+The Capital Grille,CapitalGrille,restaurant
+Souplantation,souplantation,restaurant
+Buca di Beppo,bucadibeppo,restaurant
+Jack in the Box,JackBox,restaurant
+Denny's,DennysDiner,restaurant
+LongHorn Steakhouse,LongHornSteaks,restaurant
+"Hooters	",Hooters,restaurant
+carl's jr,CarlsJr,restaurant
+Nike,Nike,clothing
+adidas,adidasUS,clothing
+Levi's,LEVIS,clothing
+Old Navy,OldNavy,clothing
+Victoria's Secret,VictoriasSecret,clothing
+Hanes,Hanes,clothing
+Calvin Klein,CalvinKlein,clothing
+Gap,Gap,clothing
+Tommy Hilfiger,TommyHilfiger,clothing
+SKECHERS,SKECHERSUSA,clothing
+Converse,Converse,clothing
+Ralph Lauren,RalphLauren,clothing
+Wrangler Jeans,Wrangler,clothing
+Banana Republic,BananaRepublic,clothing
+Under Armour,UnderArmour,clothing
+American Eagle,AEO,clothing
+Lee Jeans,LeeJeans,clothing
+Abercrombie & Fitch,Abercrombie,clothing
+Crocs Shoes,Crocs,clothing
+New Balance,newbalance,clothing
+Champion,ChampionUSA,clothing
+Ray-Ban,ray_ban,clothing
+Dockers,Dockers,clothing
+L.L.Bean,LLBean,clothing
+Men's Wearhouse,menswearhouse,clothing
+Eddie Bauer,eddiebauer,clothing
+Timberland,Timberland,clothing
+Urban Outfitters,UrbanOutfitters,clothing
+Forever 21,Forever21,clothing
+J.Crew,jcrew,clothing
+The North Face,thenorthface,clothing
+Hush Puppies,hushpuppies_usa,clothing
+Samsonite,SamsoniteUSA,clothing
+Aeropostale,Aeropostale,clothing
+Lane Bryant,lanebryant,clothing
+Vans,VANS_66,clothing
+Nautica,nautica,clothing
+Michael Kors,MichaelKors,clothing
+Jos A Bank,JosABank,clothing
+H&M,hmusa,clothing
+Canada Goose,canadagoose,clothing
+Anthropologie,Anthropologie,clothing
+Free People,FreePeople,clothing
+ASOS,ASOS_Us,clothing
+Zara,zarausa,clothing
+USA Today,USATODAY,newspapers
+The Wall Street Journal,WSJ,newspapers
+The New York Times,nytimes,newspapers
+The Washington Post,washingtonpost,newspapers
+The Hill,thehill,newspapers
+National Enquirer,NatEnquirer,newspapers
+Star Magazine,Star_News,newspapers
+The Onion,TheOnion,newspapers
+Fox News,FoxNews,news
+MSNBC,MSNBC,news
+CNN,CNN,news
+NBC News,NBCNews,news
+CBS News,CBSNews,news
+NPR,NPR,news
+ESPN,espn,news
+Free Speech TV,freespeechtv,news
+Fusion News,FusionNews,news
+Newsmax,newsmax,news
+world net daily,worldnetdaily,news
+Daily Caller,DailyCaller,news
+Natinal Football Leauge,NFL,sports
+National Basketball Association,NBA,sports
+Women's National Basketball Association,WNBA,sports
+USA Basketball,usabasketball,sports
+Major League Baseball,MLB,sports
+NHL Hockey,NHL,sports
+NASCAR,NASCAR,sports
+PGA,ThePGA,sports
+Major League Soccer,MLS,sports
+United States men's national soccer team,USMNT,sports
+United States women's national soccer team,USWNT,sports
+NCAA Women's Basketball,ncaawbb,sports
+NCAA Men's Basketball,marchmadness,sports
+NCAA Football,NCAAFootball,sports
+America's Got Talent,AGT,tv shows
+American Idol,AmericanIdol,tv shows
+Keeping Up with the Kardashians,KUWTK,tv shows
+Undercover Boss,undercover_cbs,tv shows
+Little Big Shots,NBCLilBigShots,tv shows
+Empire,EmpireFOX,tv shows
+48 Hours,48hours,tv shows
+Lethal Weapon,LethalWeaponFOX,tv shows
+MacGyver,MacGyverCBS,tv shows
+america's funniest home videos,AFVofficial,tv shows
+Family Guy,FamilyGuyonFOX,tv shows
+Hell's Kitchen,HellsKitchenFOX,tv shows
+Hawaii Five-0,HawaiiFive0CBS,tv shows
+Bob's Burgers,BobsBurgersFOX,tv shows
+Code Black,CodeBlackCBS,tv shows
+NCIS,NCIS_CBS,tv shows
+NCIS: New Orleans,NCISNewOrleans,tv shows
+Blue Bloods,BlueBloods_CBS,tv shows
+Dr. Ken,DrKenABC,tv shows
+Dancing with the Stars,DancingABC,tv shows
+Criminal Minds,CrimMinds_CBS,tv shows
+The Simpsons,TheSimpsons,tv shows
+Modern Family,ModernFam,tv shows
+New Girl,New_GirlTV,tv shows
+black-ish,blackishabc,tv shows
+The Goldbergs,TheGoldbergsABC,tv shows
+Brooklyn Nine-Nine,nbcbrooklyn99,tv shows
+Fresh off the Boat,FreshOffABC,tv shows
+This Is Us,NBCThisisUs,tv shows
+The Big Bang Theory,bigbangtheory,tv shows
+Good Place,nbcthegoodplace,tv shows
+The Middle,TheMiddle_ABC,tv shows
+The Blacklist,NBCBlacklist,tv shows
+Madam Secretary,MadamSecretary,tv shows
+Blindspot,NBCBlindspot,tv shows
+American Housewife,AmericanWifeABC,tv shows
+Greys Anatomy,GreysABC,tv shows
+Westworld,WestworldHBO,tv shows
+Wheel of Fortune,WheelofFortune,tv shows
+The Price Is Right,PriceIsRight,tv shows
+Family Feud,FamilyFeud,tv shows
+Law & Order,nbcsvu,tv shows
+Mad Men,MadMen_AMC,tv shows
+MythBusters,MythBusters,tv shows
+Judge Judy,JudgeJudy,tv shows
+Antiques Roadshow,RoadshowPBS,tv shows
+Let's Make a Deal,letsmakeadeal,tv shows
+The Bachelorette,BacheloretteABC,tv shows
+The Bachelor,BachelorABC,tv shows
+Burn Notice,Burn_NoticeTV,tv shows
+The Good Wife,TheGoodWife_CBS,tv shows
+Parks and Recreation,parksandrecnbc,tv shows
+Parenthood,nbcparenthood,tv shows
+Shark Tank,ABCSharkTank,tv shows
+Pawn Stars,pawnstars,tv shows
+60 Minutes,60Minutes,tv shows
