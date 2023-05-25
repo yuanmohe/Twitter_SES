@@ -1,4 +1,4 @@
-This repository contains codes and data related to the paper "A Method for Estimating Individual Socioeconomic Status of Twitter Users". 
+This repository contains codes and data related to the paper "[A Method for Estimating Individual Socioeconomic Status of Twitter Users](https://journals.sagepub.com/doi/10.1177/00491241231168665)", published in Sociological Methods & Research.
 
 Also avaiable on [Figshare](https://doi.org/10.6084/m9.figshare.22007000.v1).
 
