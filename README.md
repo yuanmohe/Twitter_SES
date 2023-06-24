@@ -8,7 +8,7 @@ This paper uses Twitter data obtained from the Twitter API (academic access). Du
 
 The paper also uses data from Facebook Marketing API. We share processed data useful for replication and updated codes to query the Facebook Marketing API.
 
-The YouGov panel data used in the paper are from the paper [The consequences of online partisan media]([https://doi.org/10.1073/pnas.201346411](https://doi.org/10.1073/pnas.2013464118)). We do not have the liberty of sharing the data. Readers need to contact the authors of that paper to obtain the relevant data. For users who follow at least one brand from the brands in our sample, we asked the authors to share a matrix of users and brands representing the following network, and the users' income, education, age, gender, race, and political orientation. 
+The YouGov panel data used in the paper are from the paper [The consequences of online partisan media](https://doi.org/10.1073/pnas.2013464118). We do not have the liberty of sharing the data. Readers need to contact the authors of that paper to obtain the relevant data. For users who follow at least one brand from the brands in our sample, we asked the authors to share a matrix of users and brands representing the following network, and the users' income, education, age, gender, race, and political orientation. 
 
 # data
 
